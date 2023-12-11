@@ -29,3 +29,7 @@ Springboot 3 Example projects
 - learn how to set value from environtment value for .yml file
 - learn how to dockerize project (Dockerfile, docker compose, docker image, docker container, expose port, docker network, connection)
 - learn how to ci/cd (github action, pipeline, vps)
+
+
+## List Of Repositories
+All repo's was privated
