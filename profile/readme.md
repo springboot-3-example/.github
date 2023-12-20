@@ -30,6 +30,24 @@ Springboot 3 Example projects
 - learn how to dockerize project (Dockerfile, docker compose, docker image, docker container, expose port, docker network, connection)
 - learn how to ci/cd (github action, pipeline, vps)
 
-
 ## List Of Repositories
 All repo's was privated
+| Name | Desc |
+|--|--|
+| sb3-init | init, pom.xml, banner, application.yml, spring profile (dev, prod)|
+| sb3-db-migration | liquibase, config, change-log.yml, .sql |
+| sb3-crud-mysql | mysql connector java, jpa, crud, query native, @Controller @Service @Repository |
+| sb3-spring-security | spring security 6, security configuration, jwt, authentication, authorization, middleware, UserDetail Spring|
+| sb3-redis | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
+| sb3-cors | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
+| sb3-logger | slf4j, logback |
+| sb3-swagger-api-doc | swagger, open api, api doc |
+| sb3-rabbitmq | spring rabbit, config yml, publish, listen |
+| sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
+| sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
+| sb3-metric | spring actuator, prometheus, grafana |
+
+
+
+
+
