@@ -5,7 +5,7 @@ Springboot 3 Example projects
 ### Basic
 - learn how to config using application.yml   `DONE`
 - learn how to implement rdbms (mysql, postgres)    `DONE`
-- learn how to implement memory cache (redis) 
+- learn how to implement memory cache (redis)    `DONE`
 - learn how to implement logger (logback, sl4j) 
 - learn how to implement database migration (liquibase)    `DONE`
 - learn how to implement api doc (swagger)
@@ -14,7 +14,7 @@ Springboot 3 Example projects
 - learn how to implement security api (spring security, jwt, oauth1, oauth2, api key)    `DONE`
 - learn how to implement message broker (rabbit mq, kafka)
 - learn how to implement search engine (elastic search)
-- learn how to implement clean code
+- learn how to implement clean code    `DONE`
 - learn how to created unitest for (controller & service )
 
 ### Advance
