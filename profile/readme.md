@@ -8,7 +8,7 @@ Springboot 3 Example projects
 - learn how to implement memory cache (redis)    `DONE`
 - learn how to implement logger (logback, sl4j)   `DONE`
 - learn how to implement database migration (liquibase)    `DONE`
-- learn how to implement api doc (swagger)
+- learn how to implement api doc (swagger)   `DONE`
 
 ### Intermediete
 - learn how to implement security api (spring security, jwt, oauth1, oauth2, api key)    `DONE`
@@ -41,7 +41,7 @@ All repo's was privated
 | Done | sb3-redis | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
 |  | sb3-cors | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
 |  | sb3-logger | slf4j, logback |
-|  | sb3-swagger-api-doc | swagger, open api, api doc |
+| Done | sb3-swagger-api-doc | swagger, open api, api doc |
 |  | sb3-rabbitmq | spring rabbit, config yml, publish, listen |
 |  | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
 |  | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
