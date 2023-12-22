@@ -12,7 +12,7 @@ Springboot 3 Example projects
 
 ### Intermediete
 - learn how to implement security api (spring security, jwt, oauth1, oauth2, api key)    `DONE`
-- learn how to implement message broker (rabbit mq, kafka)
+- learn how to implement message broker (rabbit mq, kafka)  `DONE`
 - learn how to implement search engine (elastic search)
 - learn how to implement clean code    `DONE`
 - learn how to created unitest for (controller & service )
@@ -42,7 +42,7 @@ All repo's was privated
 |  | sb3-cors | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
 |  | sb3-logger | slf4j, logback |
 | Done | sb3-swagger-api-doc | swagger, open api, api doc |
-|  | sb3-rabbitmq | spring rabbit, config yml, publish, listen |
+| Done | sb3-rabbitmq | spring rabbit, config yml, publish, listen |
 |  | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
 |  | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
 |  | sb3-metric | spring actuator, prometheus, grafana |
