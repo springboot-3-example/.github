@@ -39,8 +39,8 @@ All repo's was privated
 | Done | sb3-crud-mysql | mysql connector java, jpa, crud, query native, @Controller @Service @Repository |
 | Done | sb3-spring-security | spring security 6, security configuration, jwt, authentication, authorization, middleware, UserDetail Spring|
 | Done | sb3-redis | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
-|  | sb3-cors | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
-|  | sb3-logger | slf4j, logback |
+| Done | sb3-cors | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
+| Done | sb3-logger | slf4j, logback |
 | Done | sb3-swagger-api-doc | swagger, open api, api doc |
 | Done | sb3-rabbitmq | spring rabbit, config yml, publish, listen |
 |  | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
