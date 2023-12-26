@@ -55,11 +55,11 @@ All repo's was privated
 | Done | sb3-logger | slf4j, logback |
 | Done | sb3-swagger-api-doc | swagger, open api, api doc |
 | Done | sb3-rabbitmq | spring rabbit, config yml, publish, listen, queue, route, exchange |
-|  | sb3-kafka | spring kafka, config yml, publish, listen, topic, message |
+| Done | sb3-kafka | spring kafka, config yml, publish, listen, topic, message |
 | Done | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
-|  | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
-|  | sb3-metric | spring actuator, prometheus, grafana |
-|  | sb3-microservices | springcloud gateway, routing, filter, oauth, redis, kafka, elastic, postgres, prometeus, grafana|
+| Done | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
+| Done | sb3-metric | spring actuator, prometheus, grafana |
+| Inprogress | sb3-microservices | springcloud gateway, routing, filter, oauth, redis, kafka, elastic, postgres, prometeus, grafana|
 
 
 
