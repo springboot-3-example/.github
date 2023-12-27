@@ -37,7 +37,7 @@ Springboot 3 Example projects
 - learn how to config using spring profile (dev, staging)    `DONE`
 - learn how to set value from environtment value for .yml file `DONE`
 - learn how to dockerize project (Dockerfile, docker compose, docker image, docker container, expose port, docker network, connection) 
-- learn how to ci/cd (github action, pipeline, vps) `DONE`
+- learn how to ci/cd (github action, pipeline, vps) 
 
 ### Server
 - install portainer for docker management on vps
@@ -55,10 +55,10 @@ All repo's was privated
 | Done | sb3-logger | slf4j, logback |
 | Done | sb3-swagger-api-doc | swagger, open api, api doc |
 | Done | sb3-rabbitmq | spring rabbit, config yml, publish, listen, queue, route, exchange |
-| Done | sb3-kafka | spring kafka, config yml, publish, listen, topic, message |
+|  | sb3-kafka | spring kafka, config yml, publish, listen, topic, message |
 | Done | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
-| Done | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
-| Done | sb3-metric | spring actuator, prometheus, grafana |
+|  | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
+|  | sb3-metric | spring actuator, prometheus, grafana |
 | Inprogress | sb3-microservices | springcloud gateway, routing, filter, oauth, redis, kafka, elastic, postgres, prometeus, grafana|
 
 
