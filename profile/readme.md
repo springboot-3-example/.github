@@ -26,7 +26,8 @@ Springboot  : 3.2.0
 - Springboot3 & elastic (librarry, application.yml, config, elastic CRUD service)    `DONE`
 
 ### Advance
-- Springboot3 & Rollback transaction (@Transactional, Roolback exception)
+- Springboot3 & Rollback Transaction (@Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler) `Done`
+- Springboot3 & Connection Pooling (Tomcat Connection Pooling, set max pooling, active pooling, idle pooling, lock pooling)
 - Springboot3 & Concurrency (@Transactional, Optimistic Locking, Pesimistic Locking, Versioning)
 - Springboot3 & @Async (annotation, bean registration, implement async been on function )
 - Springboot3 & @Scheduler (annotation, execute the scheduler)
@@ -69,8 +70,8 @@ All repo's was privated
 | Done | sb3-rabbitmq | spring rabbit, config yml, publish, listen, exchange, route, queue  |
 | Done | sb3-kafka | spring kafka, config yml, publish, listen, broker, group, topic |
 | Done | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
-|  | sb3-ratelimmiter-circuitbreaker | resilent4j, config yml, limmiting api request |
-|  | sb3-metric | spring actuator, prometheus, grafana |
+| Done | sb3-rollback-transaction | @Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler |
+| inprogress | sb3-connection-pooling | librarry tomcat jdbc, hikariCP |
 | Inprogress | sb3-microservices | springcloud gateway, routing, filter, oauth, redis, kafka, elastic, postgres, prometeus, grafana|
 
 
