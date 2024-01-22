@@ -73,8 +73,8 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| | sb3-spring-profile | |
-| | sb3-environtment-variable | |
+| Done | sb3-spring-profile | |
+| Done | sb3-environtment-variable | |
 | | sb3-dockerize-project | |
 | | sb3-cicd-github-action-vps | |
 
