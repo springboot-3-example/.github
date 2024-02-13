@@ -65,7 +65,7 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| Done | [sb3-librarry](https://github.com/springboot-3-example/sb3-librarry) | Custom librarry for standarized the Controller, Service, Repository, Dto, Entity, etc |
+| Done | [sb3-custom-librarry](https://github.com/springboot-3-example/sb3-custom-librarry) | Custom librarry for standarized the Controller, Service, Repository, Dto, Entity, etc |
 | Done | [sb3-rollback-transaction](https://github.com/springboot-3-example/sb3-rollback-transaction) | @Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler |
 |  | [sb3-connection-pooling](https://github.com/springboot-3-example/sb3-conn-pooling) | librarry tomcat jdbc, hikariCP |
 | | [sb3-concurrency-racecondition](https://github.com/springboot-3-example/sb3-concurrency-racecondition) | |
