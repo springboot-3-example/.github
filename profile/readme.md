@@ -46,7 +46,7 @@ Springboot  : 3.2.0
 | Status | Name | Desc |
 |--|--|--|
 | Done | [sb3-spring-security](https://github.com/springboot-3-example/sb3-spring-security) | spring security 6, security configuration, jwt, authentication, authorization, middleware, UserDetail Spring|
-| Done | [sb3-redis](https://github.com/springboot-3-example/sb3-redis) | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
+| Done | [sb3-redis](https://github.com/springboot-3-example/sb3-redis-authentication-authorization) | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
 | Done | [sb3-cors](https://github.com/springboot-3-example/sb3-cors) | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
 | Done | [sb3-rabbitmq](https://github.com/springboot-3-example/sb3-rabbitmq-publish-listen) | spring rabbit, config yml, publish, listen, exchange, route, queue  |
 | Done | [sb3-kafka](https://github.com/springboot-3-example/sb3-kafka-publish-subscribe) | spring kafka, config yml, publish, listen, broker, group, topic |
