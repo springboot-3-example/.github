@@ -20,11 +20,11 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| Done | sb3-init | init, pom.xml, banner, application.yml, spring profile (dev, prod)|
-| Done | sb3-db-migration | liquibase, config, change-log.yml, .sql |
-| Done | sb3-crud-mysql | mysql connector java, jpa, crud, query native, @Controller @Service @Repository |
-| Done | sb3-logger | slf4j, logback |
-| Done | sb3-swagger-api-doc | swagger, open api, api doc |
+| Done | [sb3-init](https://github.com/springboot-3-example/sb3-init) | init, pom.xml, banner, application.yml, spring profile (dev, prod)|
+| Done | [sb3-db-migration](https://github.com/springboot-3-example/sb3-db-migration) | liquibase, config, change-log.yml, .sql |
+| Done | [sb3-crud-mysql](https://github.com/springboot-3-example/sb3-crud-mysql) | mysql connector java, jpa, crud, query native, @Controller @Service @Repository |
+| Done | [sb3-logger](https://github.com/springboot-3-example/sb3-logger) | slf4j, logback |
+| Done | [sb3-swagger-api-doc](https://github.com/springboot-3-example/sb3-swagger-api-doc) | swagger, open api, api doc |
 
 
 ## Intermediete
@@ -37,12 +37,12 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| Done | sb3-spring-security | spring security 6, security configuration, jwt, authentication, authorization, middleware, UserDetail Spring|
-| Done | sb3-redis | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
-| Done | sb3-cors | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
-| Done | sb3-rabbitmq | spring rabbit, config yml, publish, listen, exchange, route, queue  |
-| Done | sb3-kafka | spring kafka, config yml, publish, listen, broker, group, topic |
-| Done | sb3-elastic | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
+| Done | [sb3-spring-security](https://github.com/springboot-3-example/sb3-spring-security) | spring security 6, security configuration, jwt, authentication, authorization, middleware, UserDetail Spring|
+| Done | [sb3-redis](https://github.com/springboot-3-example/sb3-redis) | spring data redis, config yml, RedisConfig, redis Expired TTL, redis for auth & authorization |
+| Done | [sb3-cors](https://github.com/springboot-3-example/sb3-cors) | CorsConfig.java, allow request header, allow response header, allow origins url, allow http method |
+| Done | [sb3-rabbitmq](https://github.com/springboot-3-example/sb3-rabbitmq-publish-listen) | spring rabbit, config yml, publish, listen, exchange, route, queue  |
+| Done | [sb3-kafka](https://github.com/springboot-3-example/sb3-kafka-publish-subscribe) | spring kafka, config yml, publish, listen, broker, group, topic |
+| Done | [sb3-elastic](https://github.com/springboot-3-example/sb3-elastic) | spring elastic, config yml, listen data from rabbitmq, crud elastic, searching |
 
 ## Advance
 - Springboot3 & Rollback Transaction (@Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler) `Done`
@@ -56,15 +56,14 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| Done | sb3-rollback-transaction | @Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler |
-|  | sb3-connection-pooling | librarry tomcat jdbc, hikariCP |
-| | sb3-connection-pooling | |
-| | sb3-concurrency-racecondition | |
-| | sb3-async | |
-| | sb3-scheduler  | |
-| | sb3-ratelimmiter | |
-| | sb3-metric-api | |
-| | sb3-prometheus-grafana | |
+| Done | sb3-rollback-transaction](https://github.com/springboot-3-example/sb3-rollback-transaction) | @Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler |
+|  | [sb3-connection-pooling](https://github.com/springboot-3-example/sb3-conn-pooling) | librarry tomcat jdbc, hikariCP |
+| | [sb3-concurrency-racecondition](https://github.com/springboot-3-example/sb3-concurrency-racecondition) | |
+| | [sb3-async](https://github.com/springboot-3-example/sb3-async) | |
+| | [sb3-scheduler](https://github.com/springboot-3-example/sb3-scheduler)  | |
+| | [sb3-ratelimmiter](https://github.com/springboot-3-example/sb3-ratelimmiter) | |
+| | [sb3-metric-api](https://github.com/springboot-3-example/sb3-metric-api) | |
+| | [sb3-prometheus-grafana](https://github.com/springboot-3-example/sb3-prometheus-grafana) | |
 
 
 ### Deployment
@@ -75,17 +74,17 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| Done | sb3-spring-profile | |
-| Done | sb3-environtment-variable | |
-| | sb3-dockerize-project | |
-| | sb3-cicd-github-action-vps | |
+| Done | [sb3-spring-profile](https://github.com/springboot-3-example/sb3-spring-profile) | |
+| Done | [sb3-environtment-variable](https://github.com/springboot-3-example/sb3-env-variable) | |
+| | [sb3-dockerize-project](https://github.com/springboot-3-example/sb3-dockerize-project) | |
+| | [sb3-cicd-github-action-vps](https://github.com/springboot-3-example/sb3-github-action-vps) | |
 
 ## Server
 - install portainer for docker management on vps
 
 | Status | Name | Desc |
 |--|--|--|
-| | portainer | |
+| | [portainer](#) | |
 
 
 ## Microservices
@@ -100,11 +99,11 @@ Springboot  : 3.2.0
 
 | Status | Name | Desc |
 |--|--|--|
-| | sb3-ms-registry| discovery service, eureka|
-| | sb3-ms-gateway | spring cloud gateway, redis, rate limmiter, routing, filter, cors, metric, prometheus, grafana, logger|
-| | sb3-ms-auth | spring security, jwt, oauth1, redis, authentication, authorization, midleware, logger |
-| | sb3-ms-main | crud product api, jpa, mysql, rabbitmq, internal token, logger |
-| | sb3-ms-search | search product, elastic, rabbitmq , internal token, logger|
+| | [sb3-ms-registry](https://github.com/springboot-3-example/sb3-ms-registry)| discovery service, eureka|
+| | [sb3-ms-gateway](https://github.com/springboot-3-example/sb3-ms-gateway) | spring cloud gateway, redis, rate limmiter, routing, filter, cors, metric, prometheus, grafana, logger|
+| | [sb3-ms-auth](https://github.com/springboot-3-example/sb3-ms-auth) | spring security, jwt, oauth1, redis, authentication, authorization, midleware, logger |
+| | [sb3-ms-main](https://github.com/springboot-3-example/sb3-ms-main) | crud product api, jpa, mysql, rabbitmq, internal token, logger |
+| | [sb3-ms-search](https://github.com/springboot-3-example/sb3-ms-search) | search product, elastic, rabbitmq , internal token, logger|
 
 
 
