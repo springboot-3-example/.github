@@ -1,5 +1,7 @@
 ## About
-Springboot 3 Example projects
+Learning Springboot 3 with example project (Basic, Intermediete, Advance). 
+- All repositories on this page is **private**.
+- This page just share readme (table of contents)
 
 ### Requirement
 ```
