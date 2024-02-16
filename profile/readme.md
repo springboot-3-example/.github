@@ -54,7 +54,8 @@ Springboot  : 3.2.0
 
 ## Advance
 - Springboot3 custom librarry
-- Springboot3 deploy custom librarry into github package
+- Springboot3 deploy manualy the custom librarry into github package using apache maven
+- Springboot3 deploy automate the custom librarry into github package using github action
 - Springboot3 & Rollback Transaction (@Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler) `Done`
 - Springboot3 & Connection Pooling (Tomcat Connection Pooling, set max pooling, active pooling, idle pooling, lock pooling)
 - Springboot3 & Concurrency (@Transactional, Optimistic Locking, Pesimistic Locking, Versioning)
@@ -67,7 +68,7 @@ Springboot  : 3.2.0
 | Status | Name | Desc |
 |--|--|--|
 | Done | [sb3-custom-librarry](https://github.com/springboot-3-example/sb3-custom-librarry) | Custom librarry for standarized the Controller, Service, Repository, Dto, Entity, etc |
-| Done | [sb3-github-package-as-librarry-repository](https://github.com/springboot-3-example/sb3-github-package-as-librarry-repository) | Deploy custom librarry into github package, and how to setup on librarry repo and app repository |
+| Done | [sb3-github-package-as-librarry-repository](https://github.com/springboot-3-example/sb3-github-package-as-librarry-repository) | Deploy custom librarry into github package, deploy manualy using maven, deploy automate using github action |
 | Done | [sb3-rollback-transaction](https://github.com/springboot-3-example/sb3-rollback-transaction) | @Transactional, rollbackfor, @ControllerAdvice, @ExceptionHandler |
 |  | [sb3-connection-pooling](https://github.com/springboot-3-example/sb3-conn-pooling) | librarry tomcat jdbc, hikariCP |
 | | [sb3-concurrency-racecondition](https://github.com/springboot-3-example/sb3-concurrency-racecondition) | |
