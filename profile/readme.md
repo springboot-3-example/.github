@@ -89,7 +89,8 @@ Springboot  : 3.2.0
 |--|--|--|
 | Done | [sb3-spring-profile](https://github.com/springboot-3-example/sb3-spring-profile) | |
 | Done | [sb3-environtment-variable](https://github.com/springboot-3-example/sb3-env-variable) | |
-| | [sb3-dockerize-project](https://github.com/springboot-3-example/sb3-dockerize-project) | |
+| | [sb3-dockerfile-build-dockerimage](https://github.com/springboot-3-example/sb3-dockerfile-build-dockerimage) | Springboot 3 create docker file for build docker image|
+| | [sb3-dockerimage-with-custom-settingxml](https://github.com/springboot-3-example/sb3-dockerimage-with-custom-settingxml) | Springboot 3 create docker file for build docker image with custom setting.xml, download custom librarry from github package |
 | | [sb3-cicd-github-action-vps](https://github.com/springboot-3-example/sb3-github-action-vps) | |
 
 ## Server
