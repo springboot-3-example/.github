@@ -92,7 +92,7 @@ Springboot  : 3.2.0
 | Done | [sb3-spring-profile](https://github.com/springboot-3-example/sb3-dockerfile-build-dockerimage) | spring profile dev/prod on pom.xml, application.yml application-dev.yml application-prod.yml  |
 | Done | [sb3-environtment-variable](https://github.com/springboot-3-example/sb3-dockerfile-build-dockerimage) | env variable for application-prod.yml and docker-compose.yml |
 | Done| [sb3-dockerfile-build-dockerimage](https://github.com/springboot-3-example/sb3-dockerfile-build-dockerimage) | Springboot 3 create, application.yml application-dev.yml application-prod.yml, docker file for build docker image, docker-compose.yml for crete and run docker container|
-| | [sb3-dockerimage-with-custom-settingxml](https://github.com/springboot-3-example/sb3-dockerimage-with-custom-settingxml) | Springboot 3 create docker file for build docker image with custom setting.xml, download custom librarry from github package |
+| Done | [sb3-dockerimage-with-custom-settingxml](https://github.com/springboot-3-example/sb3-dockerimage-with-custom-settingxml) | Springboot 3 create docker file for build docker image with custom setting.xml, download custom librarry from github package |
 | | [sb3-cicd-github-action-vps](https://github.com/springboot-3-example/sb3-github-action-vps) | |
 
 ## Server
