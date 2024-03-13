@@ -102,6 +102,7 @@ Springboot  : 3.2.0
 |--|--|--|
 | Done | [sb3-nginx](https://github.com/springboot-3-example/sb3-nginx) | nginx, gateway, load balancer, round robin, vertical scalling backend service, docker , docker compose |
 | Done | [sb3-portainer](https://github.com/springboot-3-example/sb3-portainer) | portainer, docker-compose, portainer configuration, container management, see logger, download logger, recreate docker container|
+| Done | [sb3-argocd](https://github.com/springboot-3-example/sb3-argocd) | argocd-server, argocd-repository, ci/cd, docker compose, configuration|
 
 
 
