@@ -97,7 +97,7 @@ Springboot  : 3.2.0
 | Done | [Build docker image with custom setting.xml](https://github.com/springboot-3-example/sb3-dockerimage-with-custom-settingxml) | Springboot 3 create docker file for build docker image with custom setting.xml, download custom librarry from github package |
 | Done | [Github Action build & push docker image to dockerhub](https://github.com/springboot-3-example/sb3-nginx/blob/main/readme-github-action.md) | Springboot 3, Dockerfile, Github Action, Dockher Hub, Secreet Variable |
 | Done | [Github Action deploy to VPS](https://github.com/springboot-3-example/sb3-nginx/blob/main/readme-github-action.md) | Springboot3, Github Action, VPS, Secreet Variable |
-| Done | [Github Action build & push docker image to github container registry](https://github.com/springboot-3-example/sb3-nginx/blob/main/readme-github-action.md) | Springboot 3, Dockerfile, Github Action, github container registry
+| Done | [Github Action build & push docker image to github container registry](https://github.com/springboot-3-example/sb3-nginx/tree/main/doc/docker-sb3-ghcr) | Springboot 3, Dockerfile, Github Action, github container registry
 
 ## Server
 - install portainer for docker management on vps
